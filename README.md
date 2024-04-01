@@ -21,3 +21,6 @@ This project is an extensive exploration of image processing techniques using C+
 
 ## Project Outcome
 The project covers basic to advanced image processing tasks, leveraging hashmaps and quad trees for optimized analysis and processing. It demonstrates a robust and efficient system for handling detailed and large-scale image data, providing sophisticated tools for image analysis and manipulation in C++.
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/license/MIT)- see the LICENSE file for details.
